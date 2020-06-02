@@ -68,6 +68,7 @@ phone2 = "123 456 7890"
 not_phone1 = "101 Howard"
 
 # %%
+import string
 string.digits
 
 
